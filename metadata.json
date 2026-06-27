@@ -1,0 +1,6 @@
+{
+  "name": "Klinik PBG Mandiri",
+  "description": "Klinik Konsultasi Mandiri Persetujuan Bangunan Gedung (PBG) dan Sertifikat Laik Fungsi (SLF) dengan Pemeriksaan Persyaratan Teknis, Kalkulator Retribusi, dan Asisten AI Ahli.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
